@@ -1,0 +1,6 @@
+{
+  "name": "تیروتیر وب | tirOtir Web Master",
+  "description": "آموزشگاه هوش مصنوعی و فنی‌حرفه‌ای تیروتیر - دوره جامع برنامه‌نویسی وب فرانت‌اند و جاوااسکریپت با سندباکس تعاملی زنده، پروژه‌ها و آزمون‌ها",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
